@@ -1,0 +1,13 @@
+{
+    "name": "jp98/hellotest-package",
+    "description": "simple package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jp98\\HellotestPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
