@@ -1,6 +1,6 @@
 <?php
 
-namespace Jp98\HellotestPackage;
+namespace jp98\hellotest-package;
 
 
 class Index{
