@@ -8,6 +8,6 @@
             "Jp98\\HellotestPackage\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
